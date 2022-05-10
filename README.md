@@ -15,7 +15,8 @@ Using HTML paste, the actual HTML code can be added to the md editor:
 * Run HtmlPaste.exe
 * The HTML on the clipboard has now been converted to HTML code.  Paste to the target application.
 
-# Commands 
+# Commands
+```
 HtmlPaste:
   Replaces HTML formatted text to the text version
 
@@ -28,6 +29,7 @@ Options:
   -c, --console      Outputs to the console instead of copying the result to the clipboard
   --version          Show version information
   -?, -h, --help     Show help and usage information
+```
 
 # Limitations
 The output is from the HTML provided by the source application.  It can be very long as the styling is generally not consolidated.
