@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlPaste", "HtmlPaste\HtmlPaste.csproj", "{36BD4705-B8F7-4407-A95F-6883A7F27F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlPasteTest", "HtmlPasteTest\HtmlPasteTest.csproj", "{CF18D440-59B8-4717-B0E6-0E3DAD6777BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BD4705-B8F7-4407-A95F-6883A7F27F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BD4705-B8F7-4407-A95F-6883A7F27F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BD4705-B8F7-4407-A95F-6883A7F27F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BD4705-B8F7-4407-A95F-6883A7F27F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF18D440-59B8-4717-B0E6-0E3DAD6777BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF18D440-59B8-4717-B0E6-0E3DAD6777BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF18D440-59B8-4717-B0E6-0E3DAD6777BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF18D440-59B8-4717-B0E6-0E3DAD6777BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9815E4EF-2EE2-4710-8BD4-D31EFE53CC0F}
+	EndGlobalSection
+EndGlobal
